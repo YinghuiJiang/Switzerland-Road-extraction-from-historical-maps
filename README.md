@@ -1,5 +1,5 @@
 # Switzerland-Road-extraction-from-historical-maps
-This is a FDH Project
+This is a FDH project
 
 
 
