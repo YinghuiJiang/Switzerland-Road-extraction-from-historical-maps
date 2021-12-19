@@ -1,6 +1,6 @@
 # Switzerland-Road-extraction-from-historical-maps
 This is a FDH project
-#### wiki page http://fdh.epfl.ch/index.php/Switzerland_Road_extraction_from_historical_maps
+#### see our wiki page here  [wiki](http://fdh.epfl.ch/index.php/Switzerland_Road_extraction_from_historical_maps)
 
 The files in this repository include
 
