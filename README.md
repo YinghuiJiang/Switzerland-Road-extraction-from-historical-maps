@@ -1,5 +1,5 @@
 # Switzerland-Road-extraction-from-historical-maps
-This is a FDH project
+This is a FDH project Contributed by Yinghui Jiang and Irina Serenko
 #### see our [wiki page](http://fdh.epfl.ch/index.php/Switzerland_Road_extraction_from_historical_maps) here
 
 The files in this repository include
@@ -22,4 +22,4 @@ The files in this repository include
 
 
 
-### Contributed by Yinghui Jiang, Irina Serenko
+
