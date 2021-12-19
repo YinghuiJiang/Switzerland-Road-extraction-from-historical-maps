@@ -11,7 +11,10 @@ Notebooks for main coding part:
 
 Image files:
 * Final lines
-* 
+* Ground Control Points
+* Skeletonized image
+* Georeferenced image
+* Image after training
 
 
 
