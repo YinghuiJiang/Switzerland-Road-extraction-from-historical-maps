@@ -4,7 +4,7 @@ This is a FDH project
 
 The files in this repository include
 
-**Notebooks for main coding part:**
+**Notebooks of main coding parts:**
 * vectorization.ipynb
 * skeletonization.ipynb
 * dhSegment.ipynb
