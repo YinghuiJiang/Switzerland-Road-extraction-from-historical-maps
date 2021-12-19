@@ -15,6 +15,7 @@ Image files:
 * Skeletonized image
 * Georeferenced image
 * Image after training
+* Original tiff patches 
 
 
 
