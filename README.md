@@ -2,7 +2,7 @@
 Project for the course "Foundations of Digital Humanities" contributed by Yinghui Jiang and Irina Serenko.
 #### See our [Wiki page](http://fdh.epfl.ch/index.php/Switzerland_Road_extraction_from_historical_maps).
 
-The files in this repository include:
+The files in this repository are:
 * data - folder with input data for the dhSegment tool, it contains 2 folders: 'images' (contains 60 jpeg patches from different parts of the Dufour map 1000 by 1000 pixels) and 'labels' (contains 60 png binary labels with road annotations for the mentioned patches). Images from this folder were used as a training dataset for dhSegment.
 * images_predict - folder with 9 overlapping patches of the Dufour map. These patches represent a small region of Switzerland containing Solothurn. This region was not presented in the training dataset.
 * img - folder that contains the results of road segmentation, skeletonization, vectorization and georeferencing for the selected testing dataset:
