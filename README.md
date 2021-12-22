@@ -15,7 +15,7 @@ The files in this repository are:
     7) georeferenced_sk.tif - georeferenced vecorized map of predicted roads.
     8) sk_Full_image.png - result after skeletonization of the Full_image.png.
 
-**Notebooks of main coding parts:**
+**Notebooks containing the main coding parts:**
 * dhSegment.ipynb.zip - compressed jupyter notebook with the results of road segmentation for images_predict. The code was taken from this [repository](https://github.com/dhlab-epfl/dhSegment-torch) and modified for the purpose of this project. You will find all additional necessary files in the mentioned repository. For additional instructions about the model please refer to https://dhsegment.readthedocs.io/en/latest/index.html.
 * skeletonization.ipynb - jupyter notebook with code for skeletonization.
 * vectorization.ipynb - jupyter notebook with code for vectorization.
