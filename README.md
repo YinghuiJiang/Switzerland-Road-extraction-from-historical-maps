@@ -28,9 +28,7 @@ The files in this repository are:
 * Image after training
 * Original tiff patches 
 
-
-
-
-
-
-
+**References:**
+* https://github.com/dhlab-epfl/dhSegment-torch
+* https://dhsegment.readthedocs.io/en/latest/index.html
+* https://geovite.ethz.ch
