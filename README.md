@@ -12,8 +12,9 @@ The files in this repository are:
     4) Final_line.shp - the final result of the vectorization.
     5) Final_line.shx - one of the automatically generated files.
     6) Full_image.png - predictions of roads for the region combined from 9 testing patches (Solothurn).
-    7) georeferenced_sk.tif - georeferenced vecorized map of predicted roads.
-    8) sk_Full_image.png - result after skeletonization of the Full_image.png.
+    7) Full_map_pred.png - predictions of roads highlighted in the original map of the region.
+    8) georeferenced_sk.tif - georeferenced vecorized map of predicted roads.
+    9) sk_Full_image.png - result after skeletonization of the Full_image.png.
 
 **Notebooks containing the main coding parts:**
 * dhSegment.ipynb.zip - compressed jupyter notebook with the results of road segmentation for images_predict. The code was taken from this [repository](https://github.com/dhlab-epfl/dhSegment-torch) and modified for the purpose of this project. You will find all additional necessary files in the mentioned repository. For additional instructions about the model please refer to https://dhsegment.readthedocs.io/en/latest/index.html.
