@@ -7,10 +7,10 @@ The files in this repository are:
 * images_predict - folder with 9 overlapping patches of the Dufour map. These patches represent a small region of Switzerland containing Solothurn. This region was not presented in the training dataset.
 * img - folder that contains the results of road segmentation, skeletonization, vectorization and georeferencing for the selected testing dataset:
     1) original_tiff_patch - folder with 9 original tiff patches downloaded from [GeoVITe](https://geovite.ethz.ch). They contain information about the geographic coordinates.
-    2) Final_line.dbf
-    3) Final_line.points - file with Ground Control Points
-    4) Final_line.shp
-    5) Final_line.shx
+    2) Final_line.dbf - one of the automatically generated files.
+    3) Final_line.points - file with Ground Control Points.
+    4) Final_line.shp - the final result of the vectorization.
+    5) Final_line.shx - one of the automatically generated files.
     6) Full_image.png - predictions of roads for the region combined from 9 testing patches (Solothurn).
     7) georeferenced_sk.tif - georeferenced vecorized map of predicted roads.
     8) sk_Full_image.png - result after skeletonization of the Full_image.png.
@@ -19,14 +19,6 @@ The files in this repository are:
 * dhSegment.ipynb.zip - compressed jupyter notebook with the results of road segmentation for images_predict. The code was taken from this [repository](https://github.com/dhlab-epfl/dhSegment-torch) and modified for the purpose of this project. You will find all additional necessary files in the mentioned repository. For additional instructions about the model please refer to https://dhsegment.readthedocs.io/en/latest/index.html.
 * skeletonization.ipynb - jupyter notebook with code for skeletonization.
 * vectorization.ipynb - jupyter notebook with code for vectorization.
-
-**Image files (img):**
-* Final lines
-* Ground Control Points
-* Skeletonized image
-* Georeferenced image
-* Image after training
-* Original tiff patches 
 
 **References:**
 * https://github.com/dhlab-epfl/dhSegment-torch
